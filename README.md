@@ -2,6 +2,8 @@
 
 A Chromium extension that enhances hardware media key functionality on YouTube with intuitive tap and hold gestures.
 
+Now available on the [Chrome Web Store](https://chromewebstore.google.com/detail/media-keys-for-youtube/dhknepdlbdkafcapjncianfeeppfnjcn).
+
 > Forked from [Media Keys for YouTube](https://chromewebstore.google.com/detail/media-keys-for-youtube/inpajkcdlienadkggigbmfhhkdkkpbfn) by the original author.
 
 ## Features
@@ -20,6 +22,10 @@ A Chromium extension that enhances hardware media key functionality on YouTube w
 | Hold Previous Track (1s) | Previous video in playlist |
 
 ## Installation
+
+### Chrome Web Store
+
+Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/media-keys-for-youtube/dhknepdlbdkafcapjncianfeeppfnjcn).
 
 ### From Source (Developer Mode)
 
